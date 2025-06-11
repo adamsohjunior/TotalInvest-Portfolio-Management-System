@@ -1,7 +1,7 @@
 # TotalInvest-Portfolio-Management-System
 **NTU College of Computing and Data Science**
 
-This repository contains the implementation of a SQL-based database application for **SC2207 Introduction to Databases** at Nanyang Technological University (AY2024/2025 Semester 2). The application simulates a backend database system for **TotalWealth**, a digital investment platform.
+This repository contains the implementation of a SQL-based database application for **SC2207: Introduction to Databases** at Nanyang Technological University (AY2024/2025 Semester 2). The application simulates a backend database system for **TotalWealth**, a digital investment platform.
 
 ---
 
