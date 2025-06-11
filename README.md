@@ -22,8 +22,9 @@ TotalWealth is a licensed digital investment company that provides a mobile app 
 
 | Task | Description |
 |------|-------------|
-| Task 1 | **ER Diagram Creation** — Designed the initial conceptual model based on the business requirements from TotalWealth's investment platform. |
-| Task 2 | **ER Diagram Finalization** — Refined and validated the conceptual model based on supervisor feedback, ensuring accurate use of relationships, weak entities, and constraints. |
-| Task 3 | **Relational Schema Design & Normalization** — Translated the ER diagram into relational schema, identified functional dependencies, and ensured all relations were in 3NF or higher. |
-| Task 4 | **SQL Schema Implementation & Data Population** — Created SQL tables using DDL with appropriate primary/foreign key constraints and inserted realistic data. We simulated stock market transactions including asset purchases, top-ups, withdrawals, and rebalancing to support query testing. |
-| Task 5 | **SQL Query Development & Testing** — Wrote and executed complex SQL queries to fulfill analytical requirements (e.g., investor performance, behavioral patterns), and captured output results for final demonstration. |
+| 1 | **ER Diagram Creation** 
+Designed the initial conceptual model based on the business requirements from TotalWealth's investment platform. |
+| 2 | **ER Diagram Finalization** — Refined and validated the conceptual model based on supervisor feedback, ensuring accurate use of relationships, weak entities, and constraints. |
+| 3 | **Relational Schema Design & Normalization** — Translated the ER diagram into relational schema, identified functional dependencies, and ensured all relations were in 3NF or higher. |
+| 4 | **SQL Schema Implementation & Data Population** — Created SQL tables using DDL with appropriate primary/foreign key constraints and inserted realistic data. We simulated stock market transactions including asset purchases, top-ups, withdrawals, and rebalancing to support query testing. |
+| 5 | **SQL Query Development & Testing** — Wrote and executed complex SQL queries to fulfill analytical requirements (e.g., investor performance, behavioral patterns), and captured output results for final demonstration. |
