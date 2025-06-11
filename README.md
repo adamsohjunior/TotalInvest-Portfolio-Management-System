@@ -22,8 +22,7 @@ TotalWealth is a licensed digital investment company that provides a mobile app 
 
 | Task | Description |
 |------|-------------|
-| 1 | **ER Diagram Creation** 
-Designed the initial conceptual model based on the business requirements from TotalWealth's investment platform. |
+| 1 | **ER Diagram Creation** \n Designed the initial conceptual model based on the business requirements from TotalWealth's investment platform. |
 | 2 | **ER Diagram Finalization** — Refined and validated the conceptual model based on supervisor feedback, ensuring accurate use of relationships, weak entities, and constraints. |
 | 3 | **Relational Schema Design & Normalization** — Translated the ER diagram into relational schema, identified functional dependencies, and ensured all relations were in 3NF or higher. |
 | 4 | **SQL Schema Implementation & Data Population** — Created SQL tables using DDL with appropriate primary/foreign key constraints and inserted realistic data. We simulated stock market transactions including asset purchases, top-ups, withdrawals, and rebalancing to support query testing. |
