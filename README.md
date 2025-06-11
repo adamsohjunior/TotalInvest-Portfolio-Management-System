@@ -28,3 +28,13 @@ TotalWealth is a licensed digital investment company that provides a mobile app 
 | 4 | **SQL Schema Implementation & Data Population**<br>Created SQL tables using DDL with appropriate primary/foreign key constraints and inserted realistic data. We simulated stock market transactions including asset purchases, top-ups, withdrawals, and rebalancing to support query testing. |
 | 5 | **SQL Query Development & Testing**<br>Wrote and executed complex SQL queries to fulfill analytical requirements (e.g., investor performance, behavioral patterns), and captured output results for final demonstration. |
 
+---
+
+## Queries
+1. Find investors who are making on average a loss across all their portfolios in 2024.
+2. Find investors who are seeing an annualized return of more than 10% from their portfolios in 2024.
+3. Find the monthly average unrealized gain/loss of portfolios for each month in 2024.
+4. What is the top three most popular first financial goals for investors in 2024?
+5. Find investors who consistently top up their investment at the beginning of every month (dollar-cost averaging) in 2024 for at least one of their portfolios.
+6. Find the most popular financial goals for investors working in the same company and whose age is between 30 to 40 years old.
+7. Are male investors in their 20s making more money from their investments than their female counterparts in 2024?
